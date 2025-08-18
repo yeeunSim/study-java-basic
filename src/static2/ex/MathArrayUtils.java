@@ -3,7 +3,7 @@ package static2.ex;
 public class MathArrayUtils {
 
     private MathArrayUtils() {
-    //private 인스턴스 생성을 막는다.
+    // private 인스턴스 생성을 막는다.
     }
 
     public static int sum(int[] values) {
